@@ -1,0 +1,320 @@
+symbol,supplier,serial letter,repair complexity (0NA),evaluation ratio between repair cost and cost of new (0NA),"
+existing substitute product (0NA)",component having a role in security (0NA),does the product/block if the component have a role in security? (0NA),several components involved? (0NA),is the product recent? (<10 years) (0NA),"
+is the cost of inventory expensive (0NA)",substitution component not available (0NA),do we have equipment to carry out approval tests? (0NA),have we done a technical validation? (0NA),generally at least equivalent criterion,active quantity,quantity of existing stock at SNCF?,qté cible,"no longer supply (new or used), no longer supply new, reparable, supply new",product policy (short-term vision year - 2023),processing date,label
+79544181,SCLE,AB,1,1,1,1,1,1,0,0.0,0,0,0,1,1050,837,,supply new,6,2023-07-05,stock
+79402561,SCLE,BA,0,0,0,0,0,1,0,0.0,1,1,1,1,436,999,,supply new,100,2023-07-11,redesign mineur
+79540265,SCLE,BA,0,0,1,0,1,0,0,0.0,0,1,1,1,70,1655,,supply new,100,2022-08-01,substitution
+79540265,SCLE,BB,0,0,1,0,1,0,0,0.0,0,1,1,1,149,1655,,supply new,100,2022-08-01,substitution
+79540265,SCLE,BBM,0,0,1,0,1,0,0,0.0,0,1,1,1,24,1655,,supply new,100,2022-08-01,substitution
+79540265,SCLE,BC,0,0,1,0,1,0,0,0.0,0,1,1,1,210,1655,,supply new,100,2022-08-01,substitution
+79540265,SCLE,BD,0,0,1,0,1,0,0,0.0,0,1,1,1,509,1655,,supply new,100,2022-08-01,substitution
+79545722,SCLE,AA,0,0,1,0,1,0,0,0.0,0,1,1,1,257,437,,supply new,100,2022-08-01,substitution
+79545722,SCLE,AB,0,0,1,0,1,0,0,0.0,0,1,1,1,587,437,,supply new,100,2022-08-01,substitution
+79503043,JPVE,AA,0,0,0,0,0,0,1,1.0,0,0,0,1,36,153,,supply new,100,2022-07-28,stock
+79543629,SCLE,AB,0,0,0,1,1,1,0,0.0,0,1,1,1,86,270,,reparable,100,2023-07-11,substitution
+79403063,JPVE,BB,0,0,0,0,0,0,0,0.0,1,1,1,1,1100,253,,supply new,100,2022-05-05,redesign majeur
+79543621,SCLE,CA,0,0,0,1,1,1,0,0.0,0,1,1,1,718,1799,,reparable,100,2023-08-11,substitution
+79502688,JPVE,AA,0,0,0,0,0,0,0,0.0,0,1,1,1,2464,2429,,supply new,100,2022-05-10,substitution
+79502689,JPVE,AA,0,0,0,0,0,0,0,0.0,0,1,1,1,2706,2122,,supply new,100,2022-05-10,substitution
+79544402,SCLE,BB,0,0,0,1,1,1,0,0.0,0,1,1,1,1450,1244,,reparable,100,2023-07-11,substitution
+79544326,SCLE,AF,0,0,0,0,0,1,0,0.0,0,1,1,1,12,281,,supply new,100,2023-07-11,substitution
+79544708,SCLE,AB,0,0,0,0,0,1,0,0.0,0,1,1,1,10,40,,supply new,100,2023-07-11,substitution
+79502666,NSE,BA,0,0,0,0,0,0,0,0.0,0,1,1,1,267,258,,supply new,100,2021-01-01,redesign majeur
+79502667,NSE,BA,0,0,0,0,0,0,0,0.0,0,1,1,1,180,105,,supply new,100,2022-01-01,redesign majeur
+79545799,SCLE,AD,0,0,0,1,1,1,1,0.0,0,1,1,1,4906,2183,,supply new,100,2023-07-11,substitution
+79544078,SCLE,BH,0,0,0,1,1,1,1,0.0,0,1,1,1,2427,5612,,reparable,100,2023-07-11,substitution
+79501714,Schneider,___,1,0,1,0,0,1,0,0.0,0,0,0,1,0,0,,supply new,,2023-02-01,substitution
+79501719,Schneider,___,0,0,1,0,0,0,0,0.0,1,0,0,1,0,0,,supply new,,2023-07-13,substitution
+2071580,ALSETEX,___,1,0,1,1,1,0,1,0.0,0,0,1,1,0,0,,supply new,,2023-06-05,substitution
+79520542,HITACHI,CG,0,0,1,1,1,0,0,1.0,1,1,0,1,360,1504,,reparable,27,2023-05-01,LBO
+79520541,HITACHI,CG,0,0,1,1,1,0,0,1.0,1,1,0,1,360,2015,,reparable,27,2023-05-01,LBO
+79520542,HITACHI,ADQ,0,0,0,1,1,0,0,0.0,1,1,1,1,52,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,ADR,0,0,0,1,1,0,0,0.0,1,1,1,1,395,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,AEQ,0,0,0,1,1,0,0,0.0,1,1,1,1,30,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,ARR,0,0,0,1,1,0,0,0.0,1,1,1,1,209,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,BA,0,0,0,1,1,0,0,0.0,1,1,1,1,2,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,BB,0,0,0,1,1,0,0,0.0,1,1,1,1,343,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,CAA,0,0,0,1,1,0,0,0.0,1,1,1,1,169,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,CD,0,0,0,1,1,0,0,0.0,1,1,1,1,5,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,CDA,0,0,0,1,1,0,0,0.0,1,1,1,1,90,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,CE,0,0,0,1,1,0,0,0.0,1,1,1,1,12,1504,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,CF,0,0,0,1,1,0,0,0.0,1,1,1,1,434,1504,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,BAQ,0,0,0,1,1,0,0,0.0,1,1,1,1,21,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,BAR,0,0,0,1,1,0,0,0.0,1,1,1,1,702,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,BAT,0,0,0,1,1,0,0,0.0,1,1,1,1,2,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,BAU,0,0,0,1,1,0,0,0.0,1,1,1,1,101,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,BBB,0,0,0,1,1,0,0,0.0,1,1,1,1,200,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,BBR,0,0,0,1,1,0,0,0.0,1,1,1,1,16,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CA,0,0,0,1,1,0,0,0.0,1,1,1,1,3,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CAB,0,0,0,1,1,0,0,0.0,1,1,1,1,329,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CBB,0,0,0,1,1,0,0,0.0,1,1,1,1,38,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CC,0,0,0,1,1,0,0,0.0,1,1,1,1,4,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CCB,0,0,0,1,1,0,0,0.0,1,1,1,1,139,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CD,0,0,0,1,1,0,0,0.0,1,1,1,1,2,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CDA,0,0,0,1,1,0,0,0.0,1,1,1,1,36,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CE,0,0,0,1,1,0,0,0.0,1,1,1,1,5,2015,,reparable,27,2023-04-11,substitution
+79520541,HITACHI,CF,0,0,0,1,1,0,0,0.0,1,1,1,1,123,2015,,reparable,27,2023-04-11,substitution
+79520542,HITACHI,ADQ,0,0,0,1,1,1,0,0.0,1,1,1,1,52,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,ADR,0,0,0,1,1,1,0,0.0,1,1,1,1,395,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,AEQ,0,0,0,1,1,1,0,0.0,1,1,1,1,30,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,ARR,0,0,0,1,1,1,0,0.0,1,1,1,1,209,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,BA,0,0,0,1,1,1,0,0.0,1,1,1,1,2,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,BB,0,0,0,1,1,1,0,0.0,1,1,1,1,343,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,CAA,0,0,0,1,1,1,0,0.0,1,1,1,1,169,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,CD,0,0,0,1,1,1,0,0.0,1,1,1,1,5,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,CDA,0,0,0,1,1,1,0,0.0,1,1,1,1,90,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,CE,0,0,0,1,1,1,0,0.0,1,1,1,1,12,1504,,reparable,27,2023-04-11,redesign mineur
+79520542,HITACHI,CF,0,0,0,1,1,1,0,0.0,1,1,1,1,434,1504,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,BAQ,0,0,0,1,1,1,0,0.0,1,1,1,1,21,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,BAR,0,0,0,1,1,1,0,0.0,1,1,1,1,702,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,BAT,0,0,0,1,1,1,0,0.0,1,1,1,1,2,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,BAU,0,0,0,1,1,1,0,0.0,1,1,1,1,101,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,BBB,0,0,0,1,1,1,0,0.0,1,1,1,1,200,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,BBR,0,0,0,1,1,1,0,0.0,1,1,1,1,16,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CA,0,0,0,1,1,1,0,0.0,1,1,1,1,3,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CAB,0,0,0,1,1,1,0,0.0,1,1,1,1,329,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CBB,0,0,0,1,1,1,0,0.0,1,1,1,1,38,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CC,0,0,0,1,1,1,0,0.0,1,1,1,1,4,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CCB,0,0,0,1,1,1,0,0.0,1,1,1,1,139,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CD,0,0,0,1,1,1,0,0.0,1,1,1,1,2,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CDA,0,0,0,1,1,1,0,0.0,1,1,1,1,36,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CE,0,0,0,1,1,1,0,0.0,1,1,1,1,5,2015,,reparable,27,2023-04-11,redesign mineur
+79520541,HITACHI,CF,0,0,0,1,1,1,0,0.0,1,1,1,1,123,2015,,reparable,27,2023-04-11,redesign mineur
+79520910,EIVBG,A_Z,0,0,0,0,1,1,0,0.0,0,1,1,1,14,828,,reparable,,2022-07-20,substitution
+79520910,EIVBG,A_Y,0,0,0,0,1,1,0,0.0,0,1,1,1,1106,828,,reparable,,2022-07-20,substitution
+79520902,Mersen,___,0,1,1,1,1,0,1,0.0,0,0,0,1,0,0,,supply new,,2023-04-04,stock
+79520904,EIVBG,AA,0,0,0,0,1,1,0,0.0,0,1,1,1,1267,665,,reparable,,2023-01-10,substitution
+79520904,EIVBG,AB,0,0,0,0,1,1,0,0.0,0,1,1,1,90,665,,reparable,,2023-01-10,substitution
+79520904,EIVBG,BA,0,0,0,0,1,1,0,0.0,0,1,1,1,11,665,,reparable,,2023-01-10,substitution
+79520904,EIVBG,BAP,0,0,0,0,1,1,0,0.0,0,1,1,1,0,665,,reparable,,2023-01-10,substitution
+79520904,EIVBG,BAX,0,0,0,0,1,1,0,0.0,0,1,1,1,0,665,,reparable,,2023-01-10,substitution
+79542696,EIVBG,BA,0,0,0,0,1,1,0,0.0,0,1,1,1,90,133,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AA,0,0,0,0,1,1,0,0.0,0,1,1,1,11,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AB,0,0,0,0,1,1,0,0.0,0,1,1,1,15,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AC,0,0,0,0,1,1,0,0.0,0,1,1,1,2799,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,ACC,0,0,0,0,1,1,0,0.0,0,1,1,1,540,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,ACG,0,0,0,0,1,1,0,0.0,0,1,1,1,200,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AD,0,0,0,0,1,1,0,0.0,0,1,1,1,1,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,ADC,0,0,0,0,1,1,0,0.0,0,1,1,1,574,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,ADG,0,0,0,0,1,1,0,0.0,0,1,1,1,84,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AE,0,0,0,0,1,1,0,0.0,0,1,1,1,3,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AEC,0,0,0,0,1,1,0,0.0,0,1,1,1,2510,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AEG,0,0,0,0,1,1,0,0.0,0,1,1,1,710,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AEX,0,0,0,0,1,1,0,0.0,0,1,1,1,865,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AK,0,0,0,0,1,1,0,0.0,0,1,1,1,1,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AL,0,0,0,0,1,1,0,0.0,0,1,1,1,2,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,AN,0,0,0,0,1,1,0,0.0,0,1,1,1,5,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,BA,0,0,0,0,1,1,0,0.0,0,1,1,1,277,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,BAC,0,0,0,0,1,1,0,0.0,0,1,1,1,58,2300,,no longer supply new,,2023-01-11,substitution
+79543832,EIVBG,BAG,0,0,0,0,1,1,0,0.0,0,1,1,1,62,2300,,no longer supply new,,2023-01-11,substitution
+79520885,Alstom,AF,0,0,1,1,1,0,0,0.0,0,1,1,1,346,420,,supply new,,2016-01-01,substitution
+79520787,Alstom,BG,0,0,1,1,1,0,0,0.0,0,1,1,1,696,793,,supply new,7,2009-01-01,substitution
+79545693,Alstom,BA,0,0,0,0,0,0,0,0.0,0,0,0,1,26,28,,supply new,12,2020-10-08,substitution
+79545680,Alstom,AA,0,0,0,0,0,1,0,0.0,0,0,0,1,23,16,,supply new,12,2020-10-08,substitution
+79545685,Alstom,AA,0,0,0,0,0,0,0,0.0,0,0,0,1,119,37,,supply new,12,2020-10-08,substitution
+79545686,Alstom,AA,0,0,0,0,0,0,0,0.0,0,0,0,1,115,24,,supply new,12,2020-10-08,substitution
+79545687,Alstom,AA,0,0,0,0,0,0,0,0.0,0,0,0,1,51,16,,supply new,12,2020-10-08,substitution
+79520457,TechPower,BA,0,0,0,0,0,0,1,0.0,0,0,1,1,0,0,,supply new,,2021-09-12,substitution
+79543699,TechPower,BA,0,0,0,0,0,0,1,0.0,0,0,1,1,0,0,,reparable,,2021-09-12,substitution
+79545260,HITACHI,BC,0,0,0,0,0,1,1,0.0,0,0,1,1,1,132,,supply new,2,2022-06-01,substitution
+79520911,TechPower,AA,0,0,0,0,0,0,1,0.0,0,0,1,1,26,58,,supply new,,2022-08-02,substitution
+79520912,TechPower,AA,0,0,0,0,0,0,1,0.0,0,0,1,1,28,62,,supply new,,2022-08-02,substitution
+79544002,HITACHI,BE,0,0,0,0,1,0,1,0.0,0,0,1,1,1574,6204,,reparable,,2020-09-11,substitution
+79544002,HITACHI,BF,0,0,0,0,1,0,1,0.0,0,0,1,1,377,6204,,reparable,,2020-09-11,substitution
+79544002,HITACHI,BG,0,0,0,0,1,0,1,0.0,0,0,1,1,1574,6204,,reparable,,2020-09-11,substitution
+79544002,HITACHI,BH,0,0,0,0,1,0,1,0.0,0,0,1,1,3,6204,,reparable,,2020-09-11,substitution
+79544002,HITACHI,BJ,0,0,0,0,1,0,1,0.0,0,0,1,1,54,6204,,reparable,,2020-09-11,substitution
+79544002,HITACHI,BK,0,0,0,0,1,0,1,0.0,0,0,1,1,1523,6204,,reparable,,2020-09-11,substitution
+79544378,HITACHI,AA,0,0,0,0,1,0,1,0.0,0,0,1,1,1798,2576,,reparable,,2020-09-11,substitution
+79544378,HITACHI,AB,0,0,0,0,1,0,1,0.0,0,0,1,1,88,2576,,reparable,,2020-09-11,substitution
+79544378,HITACHI,AC,0,0,0,0,1,0,1,0.0,0,0,1,1,1250,2576,,reparable,,2020-09-11,substitution
+79544378,HITACHI,AD,0,0,0,0,1,0,1,0.0,0,0,1,1,406,2576,,reparable,,2020-09-11,substitution
+79544378,HITACHI,AE,0,0,0,0,1,0,1,0.0,0,0,1,1,40,2576,,reparable,,2020-09-11,substitution
+79544378,HITACHI,AF,0,0,0,0,1,0,1,0.0,0,0,1,1,111,2576,,reparable,,2020-09-11,substitution
+79544378,HITACHI,AG,0,0,0,0,1,0,1,0.0,0,0,1,1,990,2576,,reparable,,2020-09-11,substitution
+79544357,HITACHI,AA,0,0,0,0,1,0,1,0.0,0,0,1,1,41,210,,supply new,,2020-09-11,substitution
+79544357,HITACHI,BA,0,0,0,0,1,0,1,0.0,0,0,1,1,356,210,,supply new,,2020-09-11,substitution
+79544357,HITACHI,BB,0,0,0,0,1,0,1,0.0,0,0,1,1,76,210,,supply new,,2020-09-11,substitution
+79545021,HITACHI,AB,0,0,0,0,1,0,1,0.0,0,0,1,1,460,814,,supply new,,2020-09-11,substitution
+79545021,HITACHI,AC,0,0,0,0,1,0,1,0.0,0,0,1,1,220,814,,supply new,,2020-09-11,substitution
+79545261,HITACHI,AA,0,0,0,0,1,0,1,0.0,0,0,1,1,1162,822,,supply new,,2020-09-11,substitution
+79545261,HITACHI,AB,0,0,0,0,1,0,1,0.0,0,0,1,1,327,822,,supply new,,2020-09-11,substitution
+79545261,HITACHI,AC,0,0,0,0,1,0,1,0.0,0,0,1,1,97,822,,supply new,,2020-09-11,substitution
+79545261,HITACHI,AD,0,0,0,0,1,0,1,0.0,0,0,1,1,992,822,,supply new,,2020-09-11,substitution
+79545261,HITACHI,AE,0,0,0,0,1,0,1,0.0,0,0,1,1,1242,822,,supply new,,2020-09-11,substitution
+79545370,HITACHI,___,0,0,0,0,1,0,1,0.0,0,0,1,1,0,0,,supply new,,2020-09-11,substitution
+79545371,HITACHI,___,0,0,0,0,1,0,1,0.0,0,0,1,1,0,0,,supply new,,2020-09-11,substitution
+79565030,HITACHI,BAA,0,0,0,0,1,0,1,0.0,0,0,1,1,48,74,,reparable,,2020-09-11,substitution
+79565030,HITACHI,BBA,0,0,0,0,1,0,1,0.0,0,0,1,1,203,74,,reparable,,2020-09-11,substitution
+79565031,HITACHI,BAA,0,0,0,0,1,0,1,0.0,0,0,1,1,50,71,,reparable,,2020-09-11,substitution
+79565031,HITACHI,BBA,0,0,0,0,1,0,1,0.0,0,0,1,1,215,71,,reparable,,2020-09-11,substitution
+79565032,HITACHI,BAA,0,0,0,0,1,0,1,0.0,0,0,1,1,49,69,,reparable,,2020-09-11,substitution
+79565032,HITACHI,BBA,0,0,0,0,1,0,1,0.0,0,0,1,1,199,69,,reparable,,2020-09-11,substitution
+79565120,HITACHI,AAB,0,0,0,0,1,0,1,0.0,0,0,1,1,148,125,,reparable,,2020-09-11,substitution
+79565120,HITACHI,BAB,0,0,0,0,1,0,1,0.0,0,0,1,1,5,125,,reparable,,2020-09-11,substitution
+79565120,HITACHI,BBB,0,0,0,0,1,0,1,0.0,0,0,1,1,161,125,,reparable,,2020-09-11,substitution
+79565121,HITACHI,AAB,0,0,0,0,1,0,1,0.0,0,0,1,1,149,124,,reparable,,2020-09-11,substitution
+79565121,HITACHI,BAB,0,0,0,0,1,0,1,0.0,0,0,1,1,1,124,,reparable,,2020-09-11,substitution
+79565121,HITACHI,BBB,0,0,0,0,1,0,1,0.0,0,0,1,1,155,124,,reparable,,2020-09-11,substitution
+79565122,HITACHI,AAB,0,0,0,0,1,0,1,0.0,0,0,1,1,148,119,,reparable,,2020-09-11,substitution
+79565122,HITACHI,BAB,0,0,0,0,1,0,1,0.0,0,0,1,1,2,119,,reparable,,2020-09-11,substitution
+79565122,HITACHI,BBB,0,0,0,0,1,0,1,0.0,0,0,1,1,169,119,,reparable,,2020-09-11,substitution
+79565123,HITACHI,AAB,0,0,0,0,1,0,1,0.0,0,0,1,1,150,116,,reparable,,2020-09-11,substitution
+79565123,HITACHI,BAB,0,0,0,0,1,0,1,0.0,0,0,1,1,4,116,,reparable,,2020-09-11,substitution
+79565123,HITACHI,BBB,0,0,0,0,1,0,1,0.0,0,0,1,1,159,116,,reparable,,2020-09-11,substitution
+79544009,HITACHI,BCC,0,0,0,1,1,0,1,0.0,1,0,1,1,17,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,CB,0,0,0,1,1,0,1,0.0,1,0,1,1,4,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,CC,0,0,0,1,1,0,1,0.0,1,0,1,1,476,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DA,0,0,0,1,1,0,1,0.0,1,0,1,1,14,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DB,0,0,0,1,1,0,1,0.0,1,0,1,1,4,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DC,0,0,0,1,1,0,1,0.0,1,0,1,1,8,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DD,0,0,0,1,1,0,1,0.0,1,0,1,1,25,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DDH,0,0,0,1,1,0,1,0.0,1,0,1,1,25,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DE,0,0,0,1,1,0,1,0.0,1,0,1,1,4,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DEH,0,0,0,1,1,0,1,0.0,1,0,1,1,32,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DF,0,0,0,1,1,0,1,0.0,1,0,1,1,53,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DFH,0,0,0,1,1,0,1,0.0,1,0,1,1,49,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,DFN,0,0,0,1,1,0,1,0.0,1,0,1,1,1,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,EA,0,0,0,1,1,0,1,0.0,1,0,1,1,1,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,EB,0,0,0,1,1,0,1,0.0,1,0,1,1,23,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,EBH,0,0,0,1,1,0,1,0.0,1,0,1,1,8,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,FA,0,0,0,1,1,0,1,0.0,1,0,1,1,734,2037,,reparable,,2020-09-11,redesign majeur
+79544009,HITACHI,FB,0,0,0,1,1,0,1,0.0,1,0,1,1,47,2037,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,BC,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,BCC,0,0,0,1,1,0,1,0.0,1,0,1,1,12,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,CA,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,CB,0,0,0,1,1,0,1,0.0,1,0,1,1,3,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,CC,0,0,0,1,1,0,1,0.0,1,0,1,1,419,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DA,0,0,0,1,1,0,1,0.0,1,0,1,1,3,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DC,0,0,0,1,1,0,1,0.0,1,0,1,1,5,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DD,0,0,0,1,1,0,1,0.0,1,0,1,1,19,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DDH,0,0,0,1,1,0,1,0.0,1,0,1,1,44,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DE,0,0,0,1,1,0,1,0.0,1,0,1,1,5,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DEH,0,0,0,1,1,0,1,0.0,1,0,1,1,35,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DF,0,0,0,1,1,0,1,0.0,1,0,1,1,52,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,DFH,0,0,0,1,1,0,1,0.0,1,0,1,1,36,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,EB,0,0,0,1,1,0,1,0.0,1,0,1,1,87,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,EBH,0,0,0,1,1,0,1,0.0,1,0,1,1,7,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,EC,0,0,0,1,1,0,1,0.0,1,0,1,1,16,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,ECF,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,FA,0,0,0,1,1,0,1,0.0,1,0,1,1,877,1725,,reparable,,2020-09-11,redesign majeur
+79544010,HITACHI,FB,0,0,0,1,1,0,1,0.0,1,0,1,1,50,1725,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,BB,0,0,0,1,1,0,1,0.0,1,0,1,1,2,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,BCC,0,0,0,1,1,0,1,0.0,1,0,1,1,12,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,CB,0,0,0,1,1,0,1,0.0,1,0,1,1,7,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,CC,0,0,0,1,1,0,1,0.0,1,0,1,1,413,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DA,0,0,0,1,1,0,1,0.0,1,0,1,1,3,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DB,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DC,0,0,0,1,1,0,1,0.0,1,0,1,1,20,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DD,0,0,0,1,1,0,1,0.0,1,0,1,1,19,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DDH,0,0,0,1,1,0,1,0.0,1,0,1,1,34,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DE,0,0,0,1,1,0,1,0.0,1,0,1,1,2,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DEH,0,0,0,1,1,0,1,0.0,1,0,1,1,14,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DF,0,0,0,1,1,0,1,0.0,1,0,1,1,28,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,DFH,0,0,0,1,1,0,1,0.0,1,0,1,1,22,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,EA,0,0,0,1,1,0,1,0.0,1,0,1,1,6,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,EB,0,0,0,1,1,0,1,0.0,1,0,1,1,11,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,EBH,0,0,0,1,1,0,1,0.0,1,0,1,1,8,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,FA,0,0,0,1,1,0,1,0.0,1,0,1,1,782,1995,,reparable,,2020-09-11,redesign majeur
+79544011,HITACHI,FB,0,0,0,1,1,0,1,0.0,1,0,1,1,53,1995,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,BCC,0,0,0,1,1,0,1,0.0,1,0,1,1,17,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,CB,0,0,0,1,1,0,1,0.0,1,0,1,1,3,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,CC,0,0,0,1,1,0,1,0.0,1,0,1,1,346,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DA,0,0,0,1,1,0,1,0.0,1,0,1,1,2,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DC,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DD,0,0,0,1,1,0,1,0.0,1,0,1,1,35,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DDH,0,0,0,1,1,0,1,0.0,1,0,1,1,53,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DE,0,0,0,1,1,0,1,0.0,1,0,1,1,4,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DEH,0,0,0,1,1,0,1,0.0,1,0,1,1,22,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DF,0,0,0,1,1,0,1,0.0,1,0,1,1,86,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,DFH,0,0,0,1,1,0,1,0.0,1,0,1,1,37,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,EB,0,0,0,1,1,0,1,0.0,1,0,1,1,20,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,EBH,0,0,0,1,1,0,1,0.0,1,0,1,1,28,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,FA,0,0,0,1,1,0,1,0.0,1,0,1,1,704,1845,,reparable,,2020-09-11,redesign majeur
+79544012,HITACHI,FB,0,0,0,1,1,0,1,0.0,1,0,1,1,36,1845,,reparable,,2020-09-11,redesign majeur
+79545016,HITACHI,AA,0,0,0,1,1,0,1,0.0,1,0,1,1,1,355,,supply new,,2020-09-11,LBO
+79545016,HITACHI,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,101,355,,supply new,,2020-09-11,LBO
+79545016,HITACHI,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,27,355,,supply new,,2020-09-11,LBO
+79545016,HITACHI,BA,0,0,0,1,1,0,1,0.0,1,0,1,1,13,355,,supply new,,2020-09-11,LBO
+79545016,HITACHI,BB,0,0,0,1,1,0,1,0.0,1,0,1,1,2,355,,supply new,,2020-09-11,LBO
+79545016,HITACHI,BC,0,0,0,1,1,0,1,0.0,1,0,1,1,27,355,,supply new,,2020-09-11,LBO
+79545016,HITACHI,BE,0,0,0,1,1,0,1,0.0,1,0,1,1,26,318,,supply new,,2020-09-11,LBO
+79545017,HITACHI,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,77,318,,supply new,,2020-09-11,LBO
+79545017,HITACHI,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,11,318,,supply new,,2020-09-11,LBO
+79545017,HITACHI,BA,0,0,0,1,1,0,1,0.0,1,0,1,1,8,318,,supply new,,2020-09-11,LBO
+79545017,HITACHI,BC,0,0,0,1,1,0,1,0.0,1,0,1,1,6,318,,supply new,,2020-09-11,LBO
+79545017,HITACHI,BD,0,0,0,1,1,0,1,0.0,1,0,1,1,2,318,,supply new,,2020-09-11,LBO
+79545017,HITACHI,BE,0,0,0,1,1,0,1,0.0,1,0,1,1,19,318,,supply new,,2020-09-11,LBO
+79545018,HITACHI,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,95,309,,supply new,,2020-09-11,LBO
+79545018,HITACHI,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,17,309,,supply new,,2020-09-11,LBO
+79545018,HITACHI,BA,0,0,0,1,1,0,1,0.0,1,0,1,1,6,309,,supply new,,2020-09-11,LBO
+79545018,HITACHI,BC,0,0,0,1,1,0,1,0.0,1,0,1,1,33,309,,supply new,,2020-09-11,LBO
+79545018,HITACHI,BE,0,0,0,1,1,0,1,0.0,1,0,1,1,13,309,,supply new,,2020-09-11,LBO
+79545019,HITACHI,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,73,294,,supply new,,2020-09-11,LBO
+79545019,HITACHI,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,14,294,,supply new,,2020-09-11,LBO
+79545019,HITACHI,BA,0,0,0,1,1,0,1,0.0,1,0,1,1,17,294,,supply new,,2020-09-11,LBO
+79545019,HITACHI,BC,0,0,0,1,1,0,1,0.0,1,0,1,1,10,294,,supply new,,2020-09-11,LBO
+79545019,HITACHI,BD,0,0,0,1,1,0,1,0.0,1,0,1,1,7,294,,supply new,,2020-09-11,LBO
+79545473,HITACHI,AA,0,0,1,1,1,0,1,0.0,1,0,1,1,392,1790,,supply new,,2020-09-11,LBO
+79545473,HITACHI,AB,0,0,1,1,1,0,1,0.0,1,0,1,1,633,1790,,supply new,,2020-09-11,LBO
+79545473,HITACHI,AC,0,0,1,1,1,0,1,0.0,1,0,1,1,931,1790,,supply new,,2020-09-11,LBO
+79545473,HITACHI,AD,0,0,1,1,1,0,1,0.0,1,0,1,1,7,1790,,supply new,,2020-09-11,LBO
+79544359,EIFFAGE,AA,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1199,,supply new,,2020-09-11,redesign majeur
+79544359,EIFFAGE,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,4,1199,,supply new,,2020-09-11,redesign majeur
+79544359,EIFFAGE,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,92,1199,,supply new,,2020-09-11,redesign majeur
+79544359,EIFFAGE,AD,0,0,0,1,1,0,1,0.0,1,0,1,1,273,1199,,supply new,,2020-09-11,redesign majeur
+79544359,EIFFAGE,AE,0,0,0,1,1,0,1,0.0,1,0,1,1,198,1199,,supply new,,2020-09-11,redesign majeur
+79544359,EIFFAGE,AF,0,0,0,1,1,0,1,0.0,1,0,1,1,345,1199,,supply new,,2020-09-11,redesign majeur
+79544359,EIFFAGE,AG,0,0,0,1,1,0,1,0.0,1,0,1,1,356,1199,,supply new,,2020-09-11,redesign majeur
+79544360,EIFFAGE,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,2,1048,,supply new,,2020-09-11,redesign majeur
+79544360,EIFFAGE,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,84,1048,,supply new,,2020-09-11,redesign majeur
+79544360,EIFFAGE,AD,0,0,0,1,1,0,1,0.0,1,0,1,1,225,1048,,supply new,,2020-09-11,redesign majeur
+79544360,EIFFAGE,AE,0,0,0,1,1,0,1,0.0,1,0,1,1,162,1048,,supply new,,2020-09-11,redesign majeur
+79544360,EIFFAGE,AF,0,0,0,1,1,0,1,0.0,1,0,1,1,240,1048,,supply new,,2020-09-11,redesign majeur
+79544360,EIFFAGE,AG,0,0,0,1,1,0,1,0.0,1,0,1,1,297,1048,,supply new,,2020-09-11,redesign majeur
+79544361,EIFFAGE,AA,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1285,,supply new,,2020-09-11,redesign majeur
+79544361,EIFFAGE,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,3,1285,,supply new,,2020-09-11,redesign majeur
+79544361,EIFFAGE,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,73,1285,,supply new,,2020-09-11,redesign majeur
+79544361,EIFFAGE,AD,0,0,0,1,1,0,1,0.0,1,0,1,1,259,1285,,supply new,,2020-09-11,redesign majeur
+79544361,EIFFAGE,AE,0,0,0,1,1,0,1,0.0,1,0,1,1,207,1285,,supply new,,2020-09-11,redesign majeur
+79544361,EIFFAGE,AF,0,0,0,1,1,0,1,0.0,1,0,1,1,343,1285,,supply new,,2020-09-11,redesign majeur
+79544361,EIFFAGE,AG,0,0,0,1,1,0,1,0.0,1,0,1,1,349,1285,,supply new,,2020-09-11,redesign majeur
+79544362,EIFFAGE,AA,0,0,0,1,1,0,1,0.0,1,0,1,1,1,1068,,supply new,,2020-09-11,redesign majeur
+79544362,EIFFAGE,AB,0,0,0,1,1,0,1,0.0,1,0,1,1,4,1068,,supply new,,2020-09-11,redesign majeur
+79544362,EIFFAGE,AC,0,0,0,1,1,0,1,0.0,1,0,1,1,99,1068,,supply new,,2020-09-11,redesign majeur
+79544362,EIFFAGE,AD,0,0,0,1,1,0,1,0.0,1,0,1,1,237,1068,,supply new,,2020-09-11,redesign majeur
+79544362,EIFFAGE,AE,0,0,0,1,1,0,1,0.0,1,0,1,1,208,1068,,supply new,,2020-09-11,redesign majeur
+79544362,EIFFAGE,AF,0,0,0,1,1,0,1,0.0,1,0,1,1,215,1068,,supply new,,2020-09-11,redesign majeur
+79544362,EIFFAGE,AG,0,0,0,1,1,0,1,0.0,1,0,1,1,271,1068,,supply new,,2020-09-11,redesign majeur
+79544005,HITACHI,AGA,0,0,1,1,1,1,0,1.0,0,0,0,1,4416,1505,,no longer supply new,,2023-07-18,stock
+79544006,HITACHI,AGA,0,0,1,1,1,1,0,1.0,0,0,0,1,3748,1324,,no longer supply new,,2023-07-18,stock
+79544007,HITACHI,AGA,0,0,1,1,1,1,0,1.0,0,0,0,1,3663,1533,,no longer supply new,,2023-07-18,stock
+79544008,HITACHI,AGA,0,0,1,1,1,1,0,1.0,0,0,0,1,3844,1680,,no longer supply new,,2023-07-18,stock
+79545622,HITACHI,AAA,1,0,0,1,1,1,0,0.0,1,1,1,0,2,355,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545622,HITACHI,ABA,1,0,0,1,1,1,0,0.0,1,1,1,0,1,355,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545622,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,15,355,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545622,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,355,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545623,HITACHI,AAA,1,0,0,1,1,1,0,0.0,1,1,1,0,1,405,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545623,HITACHI,ABA,1,0,0,1,1,1,0,0.0,1,1,1,0,3,405,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545623,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,13,405,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545623,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,405,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545624,HITACHI,AAA,1,0,0,1,1,1,0,0.0,1,1,1,0,1,362,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545624,HITACHI,ABA,1,0,0,1,1,1,0,0.0,1,1,1,0,1,362,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545624,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,25,362,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545624,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,362,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545625,HITACHI,AAA,1,0,0,1,1,1,0,0.0,1,1,1,0,1,346,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545625,HITACHI,ABA,1,0,0,1,1,1,0,0.0,1,1,1,0,1,346,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545625,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,16,346,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545625,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,346,0.0,no longer supply new,,2019-03-01,redesign majeur
+79545630,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,6,905,5000.0,no longer supply new,,2019-03-01,redesign majeur
+79545630,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,905,5000.0,no longer supply new,,2019-03-01,redesign majeur
+79545631,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,4,894,5000.0,supply new,,2019-03-01,redesign majeur
+79545631,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,894,5000.0,supply new,,2019-03-01,redesign majeur
+79545632,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,4,832,5000.0,supply new,,2019-03-01,redesign majeur
+79545632,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,832,5000.0,supply new,,2019-03-01,redesign majeur
+79545633,HITACHI,ADA,1,0,0,1,1,1,0,0.0,1,1,1,0,4,876,5000.0,supply new,,2019-03-01,redesign majeur
+79545633,HITACHI,B__,1,0,0,1,1,1,0,0.0,1,1,1,0,0,876,5000.0,supply new,,2019-03-01,redesign majeur
+79545464,Alstom,AAA,0,0,0,1,0,0,0,0.0,0,1,1,1,6844,2305,,supply new,tsb,2010-01-01,redesign mineur
+79545106,Alstom,AE,0,0,0,1,1,1,0,,0,1,1,1,30,3583,,supply new,,2022-09-19,LBO
+79545106,Alstom,AE,0,0,0,1,1,1,0,,0,1,1,1,30,3583,,supply new,,2022-09-19,substitution
+79545467,Alstom,BB,0,1,1,1,1,1,0,,0,1,1,1,103,9541,,supply new,tsb,2021-01-01,substitution
